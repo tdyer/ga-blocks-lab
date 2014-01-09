@@ -180,3 +180,7 @@ puts "\nExamples"
 end
 
 10.downto(1) { puts "Almost new years" }
+
+#Look up these array methods
+
+#split, select, reject
