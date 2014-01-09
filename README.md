@@ -17,4 +17,9 @@
 - Explain why you would use a block
 - How would you create a method that uses a block
 
-###Activity:
+### In Class Lesson
+Open up the file lab/blocks.rb 
+And work thru contents of the file.
+
+###  In Class Lab
+***TBD***
