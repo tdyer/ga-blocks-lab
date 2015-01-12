@@ -57,7 +57,7 @@ end
 my_times(7){ puts "Say Goodby"}
 
 ##############################
-# Block with on argument
+# Block with one argument
 ##############################
 
 # Array#each takes a block argument
